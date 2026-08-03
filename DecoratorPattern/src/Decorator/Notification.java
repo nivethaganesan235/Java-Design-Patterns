@@ -1,0 +1,6 @@
+package Decorator;
+
+public interface Notification {
+	void send(PlacementDetails details);
+
+}
