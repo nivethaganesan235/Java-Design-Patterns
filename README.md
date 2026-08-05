@@ -2,7 +2,7 @@
 
 A collection of Java applications demonstrating various Gang of Four (GoF) Design Patterns using practical real-world scenarios.
 
-The repository focuses on implementing design patterns with Java and understanding how they improve code organization, reusability, and maintainability.
+The repository focuses on implementing design patterns in Java to improve code organization, reusability, and maintainability.
 
 ## Implemented Patterns
 
@@ -30,9 +30,9 @@ The repository focuses on implementing design patterns with Java and understandi
 
 ## Technologies Used
 
-Java  
-Object-Oriented Programming  
-Collections Framework  
+- Java
+- Object-Oriented Programming
+- Collections Framework
 
 ## Repository Structure
 
@@ -47,17 +47,3 @@ Java-Design-Patterns
 ├── FlyweightPattern
 └── ObserverPattern
 ```
-
-## Running the Projects
-
-1. Clone the repository.
-
-```
-git clone https://github.com/nivethaganesan235/Java-Design-Patterns.git
-```
-
-2. Open any pattern folder.
-
-3. Run the corresponding `Main.java` file.
-
-Each pattern folder contains its own implementation and README file with details about that specific pattern.
